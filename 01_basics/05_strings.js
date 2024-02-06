@@ -14,7 +14,7 @@ const gameName = new String('Vishal-Keshav-Pahare')
 // console.log(gameName.split('-')); // [ 'Vishal', 'Keshav', 'Pahare' ]
 
 // console.log(gameName[0]); // V
-// console.log(gameName.__proto__);
+// console.log(gameName.__proto__); // {}
 
 // console.log(gameName.toUpperCase()); // VISHAL
 // console.log(gameName.length); // 6
@@ -31,7 +31,7 @@ console.log(anotherString);
 
 const newStrinOne = "    Vishal   "
 console.log(newStrinOne);
-console.log(newStrinOne.trim());
+console.log(newStrinOne.trim()); // Spaces Cut and print Vishal
 
 const url = "https://vishal.com/vishal%20pahare"
 
