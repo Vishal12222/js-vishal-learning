@@ -46,7 +46,7 @@ const chai =  () => {
 
 // console.log(addTwo(3, 4)); // 7
 
-//implicit return means don't need to write return keyword if this is confusing then use line number 55
+//implicit return means don't need to write return keyword if this is confusing then use line number 51 and 56
 
 //const addTwo = (num1, num2) => num1 + num2
 //console.log(addTwo(3, 4)) // 7
